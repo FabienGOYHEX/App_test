@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "8aa19815-bb49-49eb-8535-f63f4602a9be"
+      }
+    }
   },
   "name": "Meteo_app"
 }
